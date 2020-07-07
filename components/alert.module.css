@@ -1,0 +1,7 @@
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}npm install tailwindcss postcss-preset-env postcss-flexbugs-fixes
